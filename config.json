@@ -1,0 +1,22 @@
+{
+    "mdblist": {
+        "api_key": "ENTER_API_KEY",
+        "base_url": "https://api.mdblist.com"
+    },
+    "radarr": {
+        "api_key": "ENTER_API_KEY",
+        "base_url": "http://IP:7878/api/v3"
+    },
+    "sonarr": {
+        "api_key": "ENTER_API_KEY",
+        "base_url": "http://IP:8989/api/v3"
+    },
+    "tautulli": {
+        "api_key": "ENTER_API_KEY",
+        "base_url": "http://ip:8181/api/v2"
+    },
+    "tmdb": {
+        "api_key": "ENTER_API_KEY",
+        "base_url": "https://api.themoviedb.org/3"
+    }
+}
